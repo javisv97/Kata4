@@ -1,7 +1,5 @@
 package Controller;
 
-
-
 import Model.Histogram;
 import Model.Mail;
 import View.HistogramDisplay;
